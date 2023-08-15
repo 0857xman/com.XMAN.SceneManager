@@ -1,0 +1,13 @@
+{
+  "name": "com.XMAN.SceneManager",
+  "version": "1.0.0",
+  "displayName": "XMAN_場景管理器",
+  "description": "場景管理器_提供進入跟退出場景",
+  "unity": "2022.3",
+
+  "author": {
+    "name": "XMAN",
+    "email": "0857xman@gmail.com",
+    "url": ""
+  }
+}
