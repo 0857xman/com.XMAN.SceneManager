@@ -1,5 +1,5 @@
 {
-  "name": "com.XMAN.SceneManager",
+  "name": "com.xman.scenemanager",
   "version": "1.0.0",
   "displayName": "XMAN_場景管理器",
   "description": "場景管理器_提供進入跟退出場景",
